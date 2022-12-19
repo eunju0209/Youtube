@@ -1,0 +1,1803 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Dzxne8WJeDjIOLERlnN9o4yOXYg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ztiGPEq0JgUaIj3m-eQwVycmhww",
+      "id": "wKyoYzpDEEM",
+      "snippet": {
+        "publishedAt": "2022-12-11T18:46:39Z",
+        "channelId": "UCBkyj16n2snkRg1BAzpovXQ",
+        "title": "몸으로 말해요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "description": "몸으로 말해요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n● 유튜브로는 못보는 생방송  : http://bit.ly/2byvfQH\n● 왁 물 원                                  : http://bit.ly/1Q4619k\n● 우왁굳 인스타그램               :  https://bit.ly/2Jxyh6u\n● 웰시코기메시 인스타그램   : https://bit.ly/3qqNJX1\n● 영상 업로드 시간                  :  하루에 한 번 (랜덤)\n\n※ E-Mail : ecvhao@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wKyoYzpDEEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wKyoYzpDEEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wKyoYzpDEEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wKyoYzpDEEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wKyoYzpDEEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우왁굳의 게임방송",
+        "tags": [
+          "우왁굳",
+          "우왕굳",
+          "우왁굳의게임방송",
+          "왁두",
+          "종합게임",
+          "리그오브레전드",
+          "스팀게임",
+          "쿠소게임",
+          "인디게임",
+          "비디오게임",
+          "레이싱게임",
+          "레이스게임",
+          "오버워치",
+          "배틀그라운드",
+          "배그",
+          "vr",
+          "마인크래프트",
+          "마크",
+          "vrchat",
+          "vr챗",
+          "노가리",
+          "Minecraft"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "몸으로 말해요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "description": "몸으로 말해요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n● 유튜브로는 못보는 생방송  : http://bit.ly/2byvfQH\n● 왁 물 원                                  : http://bit.ly/1Q4619k\n● 우왁굳 인스타그램               :  https://bit.ly/2Jxyh6u\n● 웰시코기메시 인스타그램   : https://bit.ly/3qqNJX1\n● 영상 업로드 시간                  :  하루에 한 번 (랜덤)\n\n※ E-Mail : ecvhao@naver.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Lct76xCQcALTralUIcu8-a-RX8U",
+      "id": "ad5QM2woGBQ",
+      "snippet": {
+        "publishedAt": "2022-12-13T08:19:50Z",
+        "channelId": "UChbE5OZQ6dRHECsX0tEPEZQ",
+        "title": "[메추리 오남매] 월드컵",
+        "description": "스튜디오 장삐쭈\n기획 및 대본 : 장삐쭈, 허혜원, 지정민\n애니메이션 : 정대준, 원동우, 이혜민\n\n성우\n찌르레기(핑크) : 라르하스\n사진 찍어달라는 사람 : 안류천",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ad5QM2woGBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ad5QM2woGBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ad5QM2woGBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ad5QM2woGBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ad5QM2woGBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "장삐쭈",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[메추리 오남매] 월드컵",
+          "description": "스튜디오 장삐쭈\n기획 및 대본 : 장삐쭈, 허혜원, 지정민\n애니메이션 : 정대준, 원동우, 이혜민\n\n성우\n찌르레기(핑크) : 라르하스\n사진 찍어달라는 사람 : 안류천"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ddsg8_9jb--JGgAnH67-fACiLGM",
+      "id": "PjGvvGBIsZM",
+      "snippet": {
+        "publishedAt": "2022-12-13T11:00:12Z",
+        "channelId": "UCH7JoVNZFpo1pOzZH-t5uew",
+        "title": "김희석, 오혜빈, 강대웅, 송근안, 하동근, 영탁 '날개 (Prod. 영탁)' Stage Clip @KSPO DOME 221119",
+        "description": "영탁 인스타그램 : https://www.instagram.com/zerotak2/?h...\n공식 팬카페 : https://cafe.naver.com/youngtakfanclub\n공식 인스타그램 : https://www.instagram.com/youngtak__official/\n공식 트위터 : https://twitter.com/zerotakofficial\n\n#영탁 #YOUNGTAK @날개",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PjGvvGBIsZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PjGvvGBIsZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PjGvvGBIsZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PjGvvGBIsZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PjGvvGBIsZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영탁의 불쑥TV",
+        "tags": [
+          "미스터트롯",
+          "미스터트로트",
+          "미스트롯",
+          "미스트로트",
+          "뽕숭아학당",
+          "뽕학",
+          "사콜",
+          "임영웅",
+          "이찬원",
+          "김호중",
+          "정동원",
+          "장민호",
+          "김희재",
+          "신인선",
+          "김수찬",
+          "황윤성",
+          "류지광",
+          "나태주",
+          "고재근",
+          "노지훈",
+          "이대원",
+          "트롯쾌남",
+          "불쑥",
+          "tv조선",
+          "박지",
+          "엘클래스",
+          "지광민",
+          "막걸리한잔",
+          "찐이야",
+          "니가왜거기서나와",
+          "누나가딱이야",
+          "사내",
+          "추억으로가는당신",
+          "강진",
+          "나훈아",
+          "조용필",
+          "나혼산",
+          "JYP",
+          "SM",
+          "장윤정",
+          "홍진영",
+          "언젠가모두",
+          "hybe",
+          "시즌비시즌",
+          "워크맨",
+          "에스파",
+          "next level",
+          "펩시",
+          "아웃사이더",
+          "놀면 뭐하니",
+          "김정민",
+          "정성발효",
+          "폴리니크",
+          "피죤",
+          "전복",
+          "완도",
+          "오이도",
+          "안무",
+          "슬리피"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "김희석, 오혜빈, 강대웅, 송근안, 하동근, 영탁 '날개 (Prod. 영탁)' Stage Clip @KSPO DOME 221119",
+          "description": "영탁 인스타그램 : https://www.instagram.com/zerotak2/?h...\n공식 팬카페 : https://cafe.naver.com/youngtakfanclub\n공식 인스타그램 : https://www.instagram.com/youngtak__official/\n공식 트위터 : https://twitter.com/zerotakofficial\n\n#영탁 #YOUNGTAK @날개"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jP0UKcV8frHa5uUTwEKpk4rle1g",
+      "id": "dFrA24E1qEI",
+      "snippet": {
+        "publishedAt": "2022-12-13T11:00:38Z",
+        "channelId": "UCvW8norVMTLt7QN-s2pS4Bw",
+        "title": "🇬🇧⚽️손흥민 패션, 영국에서 왜 놀릴까?ㅋㅋ [각 나라 별 패션 차이]",
+        "description": "오늘은 각 나라들의 특이한 패션 차이에 대해 이야기해봤습니다\n나라별로 중요하게 생각하는 패션 기준은 무엇일까요? \n\n00:00 오프닝\n00:44 미국의 패션\n04:05 프랑스 패션\n06:31 인도 패션\n08:42 이탈리아 패션\n10:18 한국 패션\n11:43 클로징\n\n𝙈 미키김 insta\nhttps://www.instagram.com/mickey.kim\n\n𝙈 조승연 insta\nhttps://www.instagram.com/totalintelli\n\n배우는 즐거움이 있는 \n본격 취미 탐구 라이프 채널!\n조승연의 탐구생활 🕵🏻‍♂️\n\ninsta. \nhttps://www.instagram.com/totalintelli\n\n#손흥민 #패션 #스타일 #MMM #미키김 #조승연 \n\nCopyright ⓒ 2022 Studio Episode - All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dFrA24E1qEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dFrA24E1qEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dFrA24E1qEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dFrA24E1qEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dFrA24E1qEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "조승연의 탐구생활",
+        "tags": [
+          "조승연",
+          "조승연작가",
+          "조승연의탐구생활",
+          "조승연의 탐구생활",
+          "손흥민",
+          "축구",
+          "패션",
+          "손흥민패션",
+          "토트넘",
+          "미국",
+          "미국패션",
+          "프랑스",
+          "프랑스패션",
+          "인도",
+          "인도패션",
+          "이탈리아",
+          "이탈리아패션",
+          "한국패션",
+          "에밀리 인 파리",
+          "실리콘밸리 패션",
+          "나라별 패션",
+          "미국 레깅스 패션",
+          "미국 편한옷",
+          "인도 사리",
+          "북이탈리아 패션",
+          "남이탈리아 패션",
+          "토트넘 선수 패션",
+          "영국 토트넘",
+          "꾸안꾸 스타일",
+          "패션 유행",
+          "온라인 쇼핑몰",
+          "당일 배송",
+          "요즘 스타일",
+          "패션스타일",
+          "최신 패션",
+          "멋있는 패션",
+          "패션 문화 차이"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🇬🇧⚽️손흥민 패션, 영국에서 왜 놀릴까?ㅋㅋ [각 나라 별 패션 차이]",
+          "description": "오늘은 각 나라들의 특이한 패션 차이에 대해 이야기해봤습니다\n나라별로 중요하게 생각하는 패션 기준은 무엇일까요? \n\n00:00 오프닝\n00:44 미국의 패션\n04:05 프랑스 패션\n06:31 인도 패션\n08:42 이탈리아 패션\n10:18 한국 패션\n11:43 클로징\n\n𝙈 미키김 insta\nhttps://www.instagram.com/mickey.kim\n\n𝙈 조승연 insta\nhttps://www.instagram.com/totalintelli\n\n배우는 즐거움이 있는 \n본격 취미 탐구 라이프 채널!\n조승연의 탐구생활 🕵🏻‍♂️\n\ninsta. \nhttps://www.instagram.com/totalintelli\n\n#손흥민 #패션 #스타일 #MMM #미키김 #조승연 \n\nCopyright ⓒ 2022 Studio Episode - All Rights Reserved"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gLvzU5TAkWy3CNouKCYuBBVwMxs",
+      "id": "M7Cl6KUttJ4",
+      "snippet": {
+        "publishedAt": "2022-12-12T09:00:14Z",
+        "channelId": "UCnx4Fi4cmkLGDiFfZ311wWw",
+        "title": "죽이 너무 잘 맞는 커플",
+        "description": "런닝맨 EP.632\n☞ 매주 일요일 오후 5:00\n\n#런닝맨​ #Runningman #유재석 #지석진 #하하 #양세찬 #송지효 #전소민 #김종국",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M7Cl6KUttJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M7Cl6KUttJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M7Cl6KUttJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M7Cl6KUttJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M7Cl6KUttJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스 예능맛집",
+        "tags": [
+          "종국",
+          "김종국 송지효",
+          "런닝맨",
+          "런닝맨 게임",
+          "런닝맨 다시보기",
+          "런닝맨 최신",
+          "런닝맨 토크",
+          "런닝맨 하이라이트",
+          "송지효",
+          "양세찬",
+          "유재석",
+          "전소민",
+          "지석진",
+          "하하",
+          "전소민 양세찬",
+          "러브라인",
+          "런닝맨 러브라인",
+          "양세찬 전소민",
+          "솜쌥",
+          "솜쌥럽라",
+          "런닝맨 막내",
+          "런닝맨 막내라인"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "죽이 너무 잘 맞는 커플",
+          "description": "런닝맨 EP.632\n☞ 매주 일요일 오후 5:00\n\n#런닝맨​ #Runningman #유재석 #지석진 #하하 #양세찬 #송지효 #전소민 #김종국"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Sq5Sw7Lks0Jq81afRQzK4ipvMKk",
+      "id": "OVoLF95n6fA",
+      "snippet": {
+        "publishedAt": "2022-12-11T09:00:22Z",
+        "channelId": "UClzB2iZ5jPoTNz0S-QU6Wiw",
+        "title": "24시간동안 이등병 VS 병장!! 계급이 낮으면 무조건 생활이 힘들까?!",
+        "description": "※ 노랭이 PD : 개그는 개그일 뿐!\n※ 강호이 : 국군 장병들 화이팅하십쇼!\n※ 진렬이 : 나라를 지켜주셔서 감사합니다!\n#파뿌리24 #파뿌리 #군대 \n파뿌리 채널 구독하기 ☞ https://url.kr/IPn4hC\n상경한 세 남자의 유쾌한 매력에 빠져보세요!!\n\n※촬영을 도와주신 코만도파크에 감사드립니다.\n\n파뿌리24 영상 몰아보기 ☞ https://url.kr/SDQwbZ \n복층라이프 몰아보기 ☞ https://url.kr/w3lLgh\n파뿌리 저가락 몰아보기 ☞ https://url.kr/5IUCuO\n슈퍼푸드보이 몰아보기 ☞ https://url.kr/JEGKBi\n랜덤챌린지 몰아보기 ☞ https://url.kr/iK3q9R\n퀴즈먹방 몰아보기 ☞ https://url.kr/QXLzIP\n뿌이로그 몰아보기  ☞ https://url.kr/M9DVLH\n1분 리뷰 몰아보기 ☞ https://url.kr/nufm3C\n\n[이메일] 콘텐츠요청, 팬 아트, 보내주고픈 말들 : popfree@sandboxnetwork.net\n[팬사서함] 서울시 용산구 서빙고로 17 센트럴파크타워, 30층 샌드박스\n받는 사람명 - 파뿌리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OVoLF95n6fA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OVoLF95n6fA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OVoLF95n6fA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OVoLF95n6fA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OVoLF95n6fA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "파뿌리",
+        "tags": [
+          "파뿌리",
+          "예능",
+          "게임",
+          "GAME",
+          "오락",
+          "버라이어티",
+          "variety",
+          "웹예능",
+          "플레이"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "24시간동안 이등병 VS 병장!! 계급이 낮으면 무조건 생활이 힘들까?!",
+          "description": "※ 노랭이 PD : 개그는 개그일 뿐!\n※ 강호이 : 국군 장병들 화이팅하십쇼!\n※ 진렬이 : 나라를 지켜주셔서 감사합니다!\n#파뿌리24 #파뿌리 #군대 \n파뿌리 채널 구독하기 ☞ https://url.kr/IPn4hC\n상경한 세 남자의 유쾌한 매력에 빠져보세요!!\n\n※촬영을 도와주신 코만도파크에 감사드립니다.\n\n파뿌리24 영상 몰아보기 ☞ https://url.kr/SDQwbZ \n복층라이프 몰아보기 ☞ https://url.kr/w3lLgh\n파뿌리 저가락 몰아보기 ☞ https://url.kr/5IUCuO\n슈퍼푸드보이 몰아보기 ☞ https://url.kr/JEGKBi\n랜덤챌린지 몰아보기 ☞ https://url.kr/iK3q9R\n퀴즈먹방 몰아보기 ☞ https://url.kr/QXLzIP\n뿌이로그 몰아보기  ☞ https://url.kr/M9DVLH\n1분 리뷰 몰아보기 ☞ https://url.kr/nufm3C\n\n[이메일] 콘텐츠요청, 팬 아트, 보내주고픈 말들 : popfree@sandboxnetwork.net\n[팬사서함] 서울시 용산구 서빙고로 17 센트럴파크타워, 30층 샌드박스\n받는 사람명 - 파뿌리"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XZE8sjEI3fkHkvnpIU6UtBr3qrI",
+      "id": "1szE5t1TlB4",
+      "snippet": {
+        "publishedAt": "2022-12-13T10:50:07Z",
+        "channelId": "UCWqWR1sFAz9UsjwkFHEkBsw",
+        "title": "인도 카레 특집 - 길거리 카레 vs 호텔 파인다이닝 카레 🇮🇳",
+        "description": "여러분들이라면 어떤 카레를 드시겠어요?\n\nInsta @kyu.joe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1szE5t1TlB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1szE5t1TlB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1szE5t1TlB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1szE5t1TlB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1szE5t1TlB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜨랑낄로 Trankilo",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "인도 카레 특집 - 길거리 카레 vs 호텔 파인다이닝 카레 🇮🇳",
+          "description": "여러분들이라면 어떤 카레를 드시겠어요?\n\nInsta @kyu.joe"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TBUNRxz0Jd4Z3Byu08vTmZ-RONw",
+      "id": "GMCdu7365Ko",
+      "snippet": {
+        "publishedAt": "2022-12-13T09:57:19Z",
+        "channelId": "UCaJCF6bmhG2wqPF3jA9gS4w",
+        "title": "새벽 1시 퇴근길에 들려본 심야의 초밥집",
+        "description": "오랜만의 일본 퇴근길 시리즈\n1화 이치란라멘 - https://youtu.be/Ggg3p4v2rw4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GMCdu7365Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GMCdu7365Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GMCdu7365Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GMCdu7365Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "유우키의 일본이야기 YUUKI",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "새벽 1시 퇴근길에 들려본 심야의 초밥집",
+          "description": "오랜만의 일본 퇴근길 시리즈\n1화 이치란라멘 - https://youtu.be/Ggg3p4v2rw4"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YaTa3HtLR1_puHZQIGq79cbsNUg",
+      "id": "_BfUrlO89Pw",
+      "snippet": {
+        "publishedAt": "2022-12-12T10:30:53Z",
+        "channelId": "UC6KwCU8Y8Uw4h_Q0ptLZkqw",
+        "title": "[🇦🇺vlog] 일단 가는거야!!! 2박3일 가좍여행 브이로그 1탄⛰️",
+        "description": "해쭈와 더 가까워지고 싶다면 예쓰바리 컴온💜\n\n비지니스 문의는 이쪽으로 👉🏽 haejooinaus@gmail.com\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_BfUrlO89Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_BfUrlO89Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BfUrlO89Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_BfUrlO89Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_BfUrlO89Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "해쭈 [HAEJOO]",
+        "tags": [
+          "해쭈",
+          "가좍",
+          "쁘큐보이",
+          "카야",
+          "새삼이",
+          "브이로그",
+          "호주"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[🇦🇺vlog] 일단 가는거야!!! 2박3일 가좍여행 브이로그 1탄⛰️",
+          "description": "해쭈와 더 가까워지고 싶다면 예쓰바리 컴온💜\n\n비지니스 문의는 이쪽으로 👉🏽 haejooinaus@gmail.com\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V86IdFBNt1Lrdc2m1v_4CEyfrl0",
+      "id": "DevJmK3a9hc",
+      "snippet": {
+        "publishedAt": "2022-12-13T13:23:34Z",
+        "channelId": "UCjGoJbTmFYjd5OnPRUur02A",
+        "title": "장프로 밥은 잡쉈어?",
+        "description": "#가슴운동 #김강민 #만두 \n\n@little_sung_yup 폼 미쳤다..\n\n\n비지니스 문의: contents@bravecompany.kr\n\n힛한 크리에이터들의 공간: https://hity.io/kimkangmin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DevJmK3a9hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DevJmK3a9hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DevJmK3a9hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DevJmK3a9hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DevJmK3a9hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김강민_Kim Kang min",
+        "tags": [
+          "김강민",
+          "송아름",
+          "보디빌더",
+          "나바",
+          "나바커플",
+          "소은이",
+          "나바 김강민",
+          "김강민 유튜브",
+          "헬창",
+          "헬스",
+          "헬스부부",
+          "보디빌더부부",
+          "바디빌더부부",
+          "인천톰하디",
+          "브레이브컴퍼니",
+          "브레이브",
+          "맥시스트"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "장프로 밥은 잡쉈어?",
+          "description": "#가슴운동 #김강민 #만두 \n\n@little_sung_yup 폼 미쳤다..\n\n\n비지니스 문의: contents@bravecompany.kr\n\n힛한 크리에이터들의 공간: https://hity.io/kimkangmin"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a25tATpqdrWtXNZPGMlT2QmtI2w",
+      "id": "ecJNbWEfiJ8",
+      "snippet": {
+        "publishedAt": "2022-12-14T01:00:13Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "모드리치 앞에서 전성기급 퍼포먼스 보인 메시…'1골 1도움' 맹활약으로 아르헨티나 결승 진출 / 스포츠머그",
+        "description": "2022 카타르월드컵 준결승에서 리오넬 메시가 이끄는 아르헨티나가 크로아티아를 3대 0으로 완파하고 8년 만에 결승에 올랐습니다. 1골 1도움으로 맹활약한 메시는 자신의 마지막 꿈인 월드컵 우승까지 이제 1승만을 남겼습니다. 또 월드컵 통산 11호 골로 바티스투타를 넘어 아르헨티나 최다 골 신기록을 세웠습니다.\n\n이 경기는 두 나라를 대표하는 간판스타 메시(35세)와 모드리치(37세)의 라스트댄스 대결로도 관심을 모았습니다. 모드리치는 후반 36분 교체되며 두 대회 연속 결승 진출에는 실패했습니다.\n\n메시가 전성기급 활약을 펼친 아르헨티나와 크로아티아의 준결승 경기를 스포츠머그에서 전해드립니다.\n \n구성·편집: 김석연 / 제작: D콘텐츠기획부\n\n🥇스포츠는 뭐다? ▶ 스포츠머그 SPORTSMUG\n\n#스포츠머그 #메시 #모드리치 #월드컵\n\n▶스포츠머그 채널 구독하기 : https://n.sbs.co.kr/sportsMugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ecJNbWEfiJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ecJNbWEfiJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ecJNbWEfiJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ecJNbWEfiJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ecJNbWEfiJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "tags": [
+          "SBS SPORTSMUG",
+          "SPORTSMUG",
+          "format:해설",
+          "location:서울",
+          "series:스포츠머그",
+          "source:영상",
+          "type:디지털",
+          "네ㅐㄳ느ㅕㅎ",
+          "스포츠 MUG",
+          "메시",
+          "리오넬_메시",
+          "모드리치",
+          "아르헨티나",
+          "크로아티아",
+          "월드컵",
+          "카타르월드컵",
+          "준결승",
+          "결승",
+          "라스트댄스",
+          "축구",
+          "축구의_신",
+          "축신",
+          "드리블",
+          "우승"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "모드리치 앞에서 전성기급 퍼포먼스 보인 메시…'1골 1도움' 맹활약으로 아르헨티나 결승 진출 / 스포츠머그",
+          "description": "2022 카타르월드컵 준결승에서 리오넬 메시가 이끄는 아르헨티나가 크로아티아를 3대 0으로 완파하고 8년 만에 결승에 올랐습니다. 1골 1도움으로 맹활약한 메시는 자신의 마지막 꿈인 월드컵 우승까지 이제 1승만을 남겼습니다. 또 월드컵 통산 11호 골로 바티스투타를 넘어 아르헨티나 최다 골 신기록을 세웠습니다.\n\n이 경기는 두 나라를 대표하는 간판스타 메시(35세)와 모드리치(37세)의 라스트댄스 대결로도 관심을 모았습니다. 모드리치는 후반 36분 교체되며 두 대회 연속 결승 진출에는 실패했습니다.\n\n메시가 전성기급 활약을 펼친 아르헨티나와 크로아티아의 준결승 경기를 스포츠머그에서 전해드립니다.\n \n구성·편집: 김석연 / 제작: D콘텐츠기획부\n\n🥇스포츠는 뭐다? ▶ 스포츠머그 SPORTSMUG\n\n#스포츠머그 #메시 #모드리치 #월드컵\n\n▶스포츠머그 채널 구독하기 : https://n.sbs.co.kr/sportsMugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HtGXOvfGmuDcClGODV91F22jM0E",
+      "id": "ZPe-PT1A8gY",
+      "snippet": {
+        "publishedAt": "2022-12-11T07:00:08Z",
+        "channelId": "UCjHn_Os5NoCXZyoXzuKth9w",
+        "title": "재벌집 막내아들은 정말 삼성그룹 창업주 이야기일까? / 소비더머니",
+        "description": "화제의 JTBC드라마 *재벌집 막내아들*을 보면서 실존 인물을 떠올리는 분들 많으신데요.\n드라마를 보면 특히 삼성그룹 이병철 창업회장을 생각나게 하는 부분이 많습니다. \n어떤 부분이 그렇고, 어떤 부분은 그렇지 않은지 비교해봤습니다.\n\n#재벌집막내아들 #삼성그룹 #순양그룹",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소비더머니",
+        "tags": [
+          "재벌집막내아들",
+          "삼성그룹",
+          "순양그룹",
+          "이병철회장",
+          "이성민연기",
+          "송중기",
+          "이건희",
+          "이재용",
+          "정주영회장",
+          "imf외환위기",
+          "재벌",
+          "14f",
+          "소비더머니"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "재벌집 막내아들은 정말 삼성그룹 창업주 이야기일까? / 소비더머니",
+          "description": "화제의 JTBC드라마 *재벌집 막내아들*을 보면서 실존 인물을 떠올리는 분들 많으신데요.\n드라마를 보면 특히 삼성그룹 이병철 창업회장을 생각나게 하는 부분이 많습니다. \n어떤 부분이 그렇고, 어떤 부분은 그렇지 않은지 비교해봤습니다.\n\n#재벌집막내아들 #삼성그룹 #순양그룹"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ev84xYbga7mXtzs0rTJQM6b2D_s",
+      "id": "cqGjhVJWtEg",
+      "snippet": {
+        "publishedAt": "2022-12-13T17:00:07Z",
+        "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+        "title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE - Official Trailer (HD)",
+        "description": "The next Spider-Man movie is coming to theaters June 2023. Watch the new trailer for Spider-Man: Across the #SpiderVerse now. \n\nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe \n \nFollow us on Social:\nhttps://www.facebook.com/SpiderVerseMovie  \nhttps://www.twitter.com/SpiderVerse\nhttps://www.instagram.com/SpiderVerseMovie  \nhttps://www.tiktok.com/@spiderversemovie \nhttps://www.acrossthespiderverse.movie\n\nMiles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, Spider-Man: Across the Spider-Verse. After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.\n \nDirected by:                       \nJoaquim Dos Santos\nKemp Powers\nJustin K. Thompson\n \nScreenplay by:              \nPhil Lord & Christopher Miller and David Callaham\n \nBased on the MARVEL Comic Books\n \nProduced by:                       \nAvi Arad\nAmy Pascal\nPhil Lord\nChristopher Miller\nChristina Steinberg\n \nExecutive Producers:        \nBob Persichetti\nPeter Ramsey\nRodney Rothman\nAditya Sood\nRebecca Karch\nBrian Bendis\n \nCast:                                  \nShameik Moore\nHailee Steinfeld\nJake Johnson\nIssa Rae\nDaniel Kaluuya\nJason Schwartzman\nBrian Tyree Henry\nLuna Lauren Velez\nGreta Lee\nRachel Dratch\nJorma Taccone\nShea Whigham\nand Oscar Isaac                         \n \n#SpiderVerse #SpiderVerseMovie #AcrossTheSpiderVerse #SpiderMan #MilesMorales #SpiderGwen #SonyPictures #SonyPicturesAnimation #OfficialTrailer #Marvel #Movie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cqGjhVJWtEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cqGjhVJWtEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqGjhVJWtEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cqGjhVJWtEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cqGjhVJWtEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony Pictures Entertainment",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE - Official Trailer (HD)",
+          "description": "The next Spider-Man movie is coming to theaters June 2023. Watch the new trailer for Spider-Man: Across the #SpiderVerse now. \n\nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe \n \nFollow us on Social:\nhttps://www.facebook.com/SpiderVerseMovie  \nhttps://www.twitter.com/SpiderVerse\nhttps://www.instagram.com/SpiderVerseMovie  \nhttps://www.tiktok.com/@spiderversemovie \nhttps://www.acrossthespiderverse.movie\n\nMiles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, Spider-Man: Across the Spider-Verse. After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.\n \nDirected by:                       \nJoaquim Dos Santos\nKemp Powers\nJustin K. Thompson\n \nScreenplay by:              \nPhil Lord & Christopher Miller and David Callaham\n \nBased on the MARVEL Comic Books\n \nProduced by:                       \nAvi Arad\nAmy Pascal\nPhil Lord\nChristopher Miller\nChristina Steinberg\n \nExecutive Producers:        \nBob Persichetti\nPeter Ramsey\nRodney Rothman\nAditya Sood\nRebecca Karch\nBrian Bendis\n \nCast:                                  \nShameik Moore\nHailee Steinfeld\nJake Johnson\nIssa Rae\nDaniel Kaluuya\nJason Schwartzman\nBrian Tyree Henry\nLuna Lauren Velez\nGreta Lee\nRachel Dratch\nJorma Taccone\nShea Whigham\nand Oscar Isaac                         \n \n#SpiderVerse #SpiderVerseMovie #AcrossTheSpiderVerse #SpiderMan #MilesMorales #SpiderGwen #SonyPictures #SonyPicturesAnimation #OfficialTrailer #Marvel #Movie"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5l7w2IcEMAspunX3KGP2P5sJ5i0",
+      "id": "f4pAHt-6BJ8",
+      "snippet": {
+        "publishedAt": "2022-12-13T12:00:20Z",
+        "channelId": "UCfpaSruWW3S4dibonKXENjA",
+        "title": "시장에서 빨간어묵 털었더니 동네분들이..🤣 매운어묵 물떡 먹방",
+        "description": "각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n\n비지니스 메일:gardenm1120@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4pAHt-6BJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4pAHt-6BJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4pAHt-6BJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4pAHt-6BJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "tzuyang쯔양",
+        "tags": [
+          "real sound",
+          "리얼사운드",
+          "social eating",
+          "mukbang",
+          "eating show",
+          "먹방",
+          "맛집",
+          "매운어묵",
+          "빨간어묵",
+          "오뎅",
+          "매운오뎅",
+          "시장",
+          "분식",
+          "떡볶이"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "시장에서 빨간어묵 털었더니 동네분들이..🤣 매운어묵 물떡 먹방",
+          "description": "각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n\n비지니스 메일:gardenm1120@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "faQ76i9jiTGCIUBNs2sqBf2NS_Q",
+      "id": "KJ_dSa6MqP0",
+      "snippet": {
+        "publishedAt": "2022-12-13T09:00:15Z",
+        "channelId": "UCgiO7Kxib0SZEG0DoeuBkdQ",
+        "title": "항준이 형과의 20년 삭힌 우정.. 상한 거 아니고 숙성입니다. [라면꼰대3] EP.15",
+        "description": "'낭만'하면 떠오르는 때와 장소가 있나요?\n오늘은 김풍 작가님의 절친 장항준 감독님과 \n그 때 그 시절로 떠나보고자 합니다..\n\n김풍 작가님의 치기 어린 시절..\n거머리(?) 같이 장항준 형님 뒤만\n쫄래쫄래 쫓아다니던 꼬마 김풍의 충무로 추억..\n\n그런데... 두 분의 기억이 영 딴판인데요..?\n둘 다 자기의 기억이 맞다고 우기는 이 상황..\n과연 누가 틀렸는지.. 진실은 무엇일까요?\n\n라면꼰대는 장항준 감독님과의 추억도,\n새로운 도가니찜 라면에 대한 극찬도\n지켜낼 수 있을까요?\n\n[라면꼰대 시즌3]\n📌 더 다채로운 라면의 숨결을 찾아서…\n📌 매주 (화) 오후 6시 공개\n\n00:00 20년지기 우정의 추억 여행\n01:00 김풍 업어키운 장항준 등장\n03:45 타임머신 속으로...\n06:24 낭만의 시대\n07:26 어긋난 우정\n11:15 장항준 충격 고백\n16:45 출연자가 원하는 무드\n19:20 헤리티지는 리조트 아냐?\n20:51 엄마와의 놀이터..\n23:37 도가니 라면의 영어 이름\n25:48 모두가 바랐던 '그 카페'\n\n더밥스튜디오 구독하기👉 https://www.youtube.com/c/THEBOB더밥스튜디오\n#THEBOB #더밥스튜디오 #라면꼰대 #라면꼰대3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJ_dSa6MqP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJ_dSa6MqP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJ_dSa6MqP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KJ_dSa6MqP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KJ_dSa6MqP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE BOB - 더 밥 스튜디오",
+        "tags": [
+          "HOST 다나카",
+          "mukbang",
+          "noodle",
+          "ramen",
+          "ramyeon",
+          "곽준빈",
+          "곽튜부",
+          "곽튜브",
+          "기안",
+          "기안84",
+          "김풍",
+          "김풍 라면",
+          "김풍 카페",
+          "꼰대",
+          "나 혼자 산다",
+          "나몰라패밀리",
+          "다나카",
+          "다나카상",
+          "더밥 스튜디오",
+          "더밥스튜디오",
+          "또간집",
+          "라끼남",
+          "라멘",
+          "라면",
+          "라면꼰대",
+          "라면꼰대 시즌3",
+          "라면꼰대1",
+          "라면꼰대2",
+          "라면꼰대3",
+          "레시피",
+          "르세라핌",
+          "먹방",
+          "먹방라면",
+          "먹을텐데",
+          "모에모에 뀽",
+          "모에모에뀽",
+          "바퀴 달린 입",
+          "바퀴달린입",
+          "바퀴입",
+          "밥맛없는언니들",
+          "빠니보틀 곽튜브",
+          "성시경",
+          "성시경 먹방",
+          "성시경의 먹을텐데",
+          "소식좌",
+          "식영이형",
+          "엠드로메다",
+          "운동부 둘이 왔어요",
+          "웹툰작가",
+          "이말년",
+          "전무님",
+          "주우재",
+          "주펄",
+          "주호민",
+          "침착맨",
+          "침착맨 곽튜브",
+          "침착맨 곽튜브 빠니보틀",
+          "침튜브",
+          "침펄",
+          "침펄 먹방",
+          "침펄토론",
+          "침펄풍",
+          "침펄풍 월드컵",
+          "터퀴즈",
+          "터키즈",
+          "튀르키예즈",
+          "핫쇼",
+          "호스트 다나카",
+          "장항준",
+          "장항준 감독",
+          "장항준 김은희",
+          "장항준 유퀴즈",
+          "장항준 rm",
+          "김은희 작가",
+          "장항준 설경구",
+          "알쓸인잡 장항준",
+          "장항준 윤종신"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "항준이 형과의 20년 삭힌 우정.. 상한 거 아니고 숙성입니다. [라면꼰대3] EP.15",
+          "description": "'낭만'하면 떠오르는 때와 장소가 있나요?\n오늘은 김풍 작가님의 절친 장항준 감독님과 \n그 때 그 시절로 떠나보고자 합니다..\n\n김풍 작가님의 치기 어린 시절..\n거머리(?) 같이 장항준 형님 뒤만\n쫄래쫄래 쫓아다니던 꼬마 김풍의 충무로 추억..\n\n그런데... 두 분의 기억이 영 딴판인데요..?\n둘 다 자기의 기억이 맞다고 우기는 이 상황..\n과연 누가 틀렸는지.. 진실은 무엇일까요?\n\n라면꼰대는 장항준 감독님과의 추억도,\n새로운 도가니찜 라면에 대한 극찬도\n지켜낼 수 있을까요?\n\n[라면꼰대 시즌3]\n📌 더 다채로운 라면의 숨결을 찾아서…\n📌 매주 (화) 오후 6시 공개\n\n00:00 20년지기 우정의 추억 여행\n01:00 김풍 업어키운 장항준 등장\n03:45 타임머신 속으로...\n06:24 낭만의 시대\n07:26 어긋난 우정\n11:15 장항준 충격 고백\n16:45 출연자가 원하는 무드\n19:20 헤리티지는 리조트 아냐?\n20:51 엄마와의 놀이터..\n23:37 도가니 라면의 영어 이름\n25:48 모두가 바랐던 '그 카페'\n\n더밥스튜디오 구독하기👉 https://www.youtube.com/c/THEBOB더밥스튜디오\n#THEBOB #더밥스튜디오 #라면꼰대 #라면꼰대3"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AZa1RRJUywu-Ti5qPyFkag2uWiU",
+      "id": "jxx0mxJw7wo",
+      "snippet": {
+        "publishedAt": "2022-12-12T07:38:59Z",
+        "channelId": "UCYZv9v_bwfMGc64gLRe34OA",
+        "title": "[습속친구들] 이렇게 귀여운데.. 멸종 위기라고요? 😮 매일 찾아오는 귀한 손님 ‘긴점박이올빼미’  #순간포착세상에이런일이 #WhatonEarth #SBSstory",
+        "description": "1189회 220719 매일 찾아오는 멸종위기 ‘긴점박이올빼미’ \n\n우리나라 멸종위기 2급, 세계적으로도 희귀한 조류라 보호종으로 등록되어 있는 긴점박이올빼미가 한 달이 넘도록 매일같이 이 집에 온다는 제보!\n살면서 한 번 보기도 힘들다는 긴점박이올빼미 같이 보실래요?👀\n\nSBS 화요일 교양 ‘순간포착 세상에 이런 일이’\n☞ 오후 9시 본 방송\n\n#순간포착세상에이런일이 #순간포착올빼미 #멸종위기올빼미",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jxx0mxJw7wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jxx0mxJw7wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jxx0mxJw7wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jxx0mxJw7wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jxx0mxJw7wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS STORY",
+        "tags": [
+          "SBS",
+          "SBSStory",
+          "교양",
+          "순간포착",
+          "순간포착세상에이런일이",
+          "세상에이런일이",
+          "세상에이런일이동물",
+          "세상에이런일이올빼미",
+          "세상에이런일이순간포착동물",
+          "세상에이런일이새",
+          "세상에이런일이긴점박이올빼미",
+          "세상에이런일이수리",
+          "세상에이런일이멸종위기",
+          "세상에이런일이멸종새",
+          "세상에이런일이귀여운",
+          "세상에이런일이올망졸망",
+          "순간포착올빼미",
+          "순간포착멸종위기새",
+          "순간포착수리",
+          "순간포착올망졸망",
+          "순간포착이몸등장",
+          "세상에이런일이귀한손님",
+          "WhatonEarth",
+          "ANIMAL",
+          "순간포착세상이이런일이1189회",
+          "순간포착세상이이런일이다시보기",
+          "순간포착세상이이런일이모음집",
+          "습속친구들"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[습속친구들] 이렇게 귀여운데.. 멸종 위기라고요? 😮 매일 찾아오는 귀한 손님 ‘긴점박이올빼미’  #순간포착세상에이런일이 #WhatonEarth #SBSstory",
+          "description": "1189회 220719 매일 찾아오는 멸종위기 ‘긴점박이올빼미’ \n\n우리나라 멸종위기 2급, 세계적으로도 희귀한 조류라 보호종으로 등록되어 있는 긴점박이올빼미가 한 달이 넘도록 매일같이 이 집에 온다는 제보!\n살면서 한 번 보기도 힘들다는 긴점박이올빼미 같이 보실래요?👀\n\nSBS 화요일 교양 ‘순간포착 세상에 이런 일이’\n☞ 오후 9시 본 방송\n\n#순간포착세상에이런일이 #순간포착올빼미 #멸종위기올빼미"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ovanqRM66DevXwGSn6U__R-FPGs",
+      "id": "niLRzOMwT2E",
+      "snippet": {
+        "publishedAt": "2022-12-12T09:00:20Z",
+        "channelId": "UChY4PXxJI0aJYsGT1X6INWA",
+        "title": "[#무도] 서울~😍 어디까지 가봤니? 외국인 관광객을 위한 무도만의 특별 투어 준비 대공개💥💥 '무도 투어' 1편 MBC151107방송",
+        "description": "[무도의 12월은 어땠을까?]\n\n서울~ 어디까지 가봤니?\n외국인 여행객들을 위한\n무도 멤버들만의 아~주 턱!별!한 무도투어 코스 짜기😍\n\n방영일자 : 20151107\n\n\n무한도전 1화부터 FULL버전 다시 보기 (2006년 5월 6일~2018년 3월 31일) →\n▶ WAVVE :\nhttps://m.wavve.com/player/vod?programid=M_T72108G&page=1\n▶ iMBC :\nhttp://m.imbc.com/Vod/VodPlay?progCode=1000786100000100000&broadcastID=1000786100002100000&type=VOD\n\n#옛능#무한도전#무도투어#무리한도전#강력추천토요일#무모한도전#무한도전레전드#유재석#정준하#박명수#정형돈#하하#노홍철#길#전진#광희",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/niLRzOMwT2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/niLRzOMwT2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/niLRzOMwT2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/niLRzOMwT2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/niLRzOMwT2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "옛능 : MBC 옛날 예능 다시보기",
+        "tags": [
+          "MBC",
+          "유재석",
+          "마봉춘",
+          "다시보기",
+          "VOD",
+          "FULL",
+          "웃긴",
+          "코미디",
+          "무한도전",
+          "무도",
+          "무도레전드",
+          "추억",
+          "옛날",
+          "고전",
+          "예능",
+          "드라마",
+          "예전",
+          "90년대",
+          "클래식",
+          "레전드",
+          "명작",
+          "주말",
+          "엠비씨",
+          "재방"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[#무도] 서울~😍 어디까지 가봤니? 외국인 관광객을 위한 무도만의 특별 투어 준비 대공개💥💥 '무도 투어' 1편 MBC151107방송",
+          "description": "[무도의 12월은 어땠을까?]\n\n서울~ 어디까지 가봤니?\n외국인 여행객들을 위한\n무도 멤버들만의 아~주 턱!별!한 무도투어 코스 짜기😍\n\n방영일자 : 20151107\n\n\n무한도전 1화부터 FULL버전 다시 보기 (2006년 5월 6일~2018년 3월 31일) →\n▶ WAVVE :\nhttps://m.wavve.com/player/vod?programid=M_T72108G&page=1\n▶ iMBC :\nhttp://m.imbc.com/Vod/VodPlay?progCode=1000786100000100000&broadcastID=1000786100002100000&type=VOD\n\n#옛능#무한도전#무도투어#무리한도전#강력추천토요일#무모한도전#무한도전레전드#유재석#정준하#박명수#정형돈#하하#노홍철#길#전진#광희"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r5dbkggyZ2WtOkbAmauVlmn61BM",
+      "id": "vE3YKp0wszk",
+      "snippet": {
+        "publishedAt": "2022-12-13T12:00:37Z",
+        "channelId": "UCVfLNEch9YxD4tX1L-crkMQ",
+        "title": "살아남기만 해도 다행이던 성형수술의 역사 | 의학의 역사 성형수술 편",
+        "description": "새로운 장소에서 성형수술의 역사에 대해 이야기 해 드립니다. \n아름다운 공간을 제공해준 리프팅에 진심인 청담 엠레드 클리닉 고마워요~\nhttps://www.youtube.com/@AMRED_CLINIC\n\n닥터프렌즈 영상 보시고 기분 좋은 하루 되세요 \n구독은 건강입니다♥\n\n닥프가 만든 본격 정신과 심리상담게임 \"Help Me\"가 스팀에 출시되었어요 ;) \n스팀 링크 : https://store.steampowered.com/app/1557780/Help_Me/\n앱스토어와 구글스토어에서도  다운 받으실 수 있습니다! \n다이아마켓 링크(게임과 도담도담 마음카드 구입 가능) : https://bit.ly/3yZia9V\n\n인트로 음악 작사, 작곡 - 스텔라장 (고마워요!!👍❤)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vE3YKp0wszk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vE3YKp0wszk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vE3YKp0wszk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vE3YKp0wszk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vE3YKp0wszk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "닥터프렌즈",
+        "tags": [
+          "닥터프렌즈",
+          "doctor friends",
+          "닥프",
+          "헬프",
+          "헬프미",
+          "대중의학",
+          "성형",
+          "성형수술의 역사",
+          "의학의역사",
+          "성형수술",
+          "엠레드",
+          "코성형"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "살아남기만 해도 다행이던 성형수술의 역사 | 의학의 역사 성형수술 편",
+          "description": "새로운 장소에서 성형수술의 역사에 대해 이야기 해 드립니다. \n아름다운 공간을 제공해준 리프팅에 진심인 청담 엠레드 클리닉 고마워요~\nhttps://www.youtube.com/@AMRED_CLINIC\n\n닥터프렌즈 영상 보시고 기분 좋은 하루 되세요 \n구독은 건강입니다♥\n\n닥프가 만든 본격 정신과 심리상담게임 \"Help Me\"가 스팀에 출시되었어요 ;) \n스팀 링크 : https://store.steampowered.com/app/1557780/Help_Me/\n앱스토어와 구글스토어에서도  다운 받으실 수 있습니다! \n다이아마켓 링크(게임과 도담도담 마음카드 구입 가능) : https://bit.ly/3yZia9V\n\n인트로 음악 작사, 작곡 - 스텔라장 (고마워요!!👍❤)"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l4ZAbiNOHOilWf34StW1UZzmEeg",
+      "id": "B4QWdVBGd9k",
+      "snippet": {
+        "publishedAt": "2022-12-12T08:44:44Z",
+        "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+        "title": "[님아 그 시장을 가오_EP. 17_청양] 이 순두부찌개는 밥 두 공기가 기본입니다! 집 앞이면 매일 출근 도장 찍고 싶은 찐한 순두부찌개집!",
+        "description": "#백종원 #순두부찌개 #청양\n\n오늘은 충청남도 청양에 왔어요!\n칠갑산 단풍 보러 왔냐구요? 설마요~\n단풍은 핑계고 맛있는 거 찾아서 왔죠!\n\n여기는 가게 외관부터 이미 끝이에요 끝!\n진짜 집 앞에 있으면 매일 왔을 거 같아요~\n월동 준비를 거창하게 할 필요 있나요?\n흰밥에 펄펄 끓는 순두부찌개 한 입이면~\n올겨울 거뜬하게 넘길 수 있지 않겠어요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B4QWdVBGd9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B4QWdVBGd9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B4QWdVBGd9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B4QWdVBGd9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B4QWdVBGd9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "백종원 PAIK JONG WON",
+        "tags": [
+          "충남",
+          "알프스",
+          "청양",
+          "백종원",
+          "님아 그 시장을 가오",
+          "백종원의 골목식당",
+          "스트리트 푸드 파이터",
+          "스푸파",
+          "먹방",
+          "예산",
+          "칠갑산",
+          "충청남도",
+          "충청도",
+          "산꽃마을",
+          "장곡사",
+          "칠갑산 산마루",
+          "18번 곡",
+          "정류장",
+          "단풍",
+          "청양고추",
+          "조생종",
+          "스코빌",
+          "대일식당",
+          "청양군 남양면",
+          "순두부찌개",
+          "된장찌개",
+          "김치찌개",
+          "탕수육",
+          "제육볶음",
+          "순두부백반",
+          "번데기",
+          "순두부",
+          "북창동",
+          "예산고등학교",
+          "사투리",
+          "충청도 사투리",
+          "경상도 사투리",
+          "됐슈",
+          "누룽지",
+          "한정판",
+          "겉바속촉",
+          "무생채",
+          "밑반찬",
+          "오이무침",
+          "달걀",
+          "반숙",
+          "완숙",
+          "노른자",
+          "강남스타일",
+          "시골 인심",
+          "총각 김치",
+          "달랑무",
+          "멸치",
+          "우렁",
+          "상황극",
+          "콩트",
+          "꽁트",
+          "단골",
+          "사랑방",
+          "청춘",
+          "유산소",
+          "기적의 논리",
+          "맛있게 먹으면 0칼로리",
+          "노포",
+          "노포 식당",
+          "PAIK JONG WON",
+          "Baek Jong-won's alley restaurant",
+          "street food fighter",
+          "mukbang",
+          "Sundubu stew",
+          "Kimchi stew",
+          "Chungcheong-do",
+          "dialect"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[님아 그 시장을 가오_EP. 17_청양] 이 순두부찌개는 밥 두 공기가 기본입니다! 집 앞이면 매일 출근 도장 찍고 싶은 찐한 순두부찌개집!",
+          "description": "#백종원 #순두부찌개 #청양\n\n오늘은 충청남도 청양에 왔어요!\n칠갑산 단풍 보러 왔냐구요? 설마요~\n단풍은 핑계고 맛있는 거 찾아서 왔죠!\n\n여기는 가게 외관부터 이미 끝이에요 끝!\n진짜 집 앞에 있으면 매일 왔을 거 같아요~\n월동 준비를 거창하게 할 필요 있나요?\n흰밥에 펄펄 끓는 순두부찌개 한 입이면~\n올겨울 거뜬하게 넘길 수 있지 않겠어요?"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FJq_dRwCCwIDVKHildiTaLeIna0",
+      "id": "zE8n0bC9JhU",
+      "snippet": {
+        "publishedAt": "2022-12-12T11:54:47Z",
+        "channelId": "UCRA5hbjN2NDxzNxXZkOAmKg",
+        "title": "마을 이장 20년.. 마을 창고가 이장 소유로 | 전주MBC 221212 방송",
+        "description": "정자형기자의 더 많은 기사를 보고싶다면?\nhttps://media.naver.com/journalist/659/77515\n\n◀ 앵커 ▶\n한 시골마을의 공용 창고를 마을 이장이 개인 사업장으로 차지해 주민들이 반발하고 있습니다.\n\n마을 회관의 땅도 이장이 개인 명의로 바꿔버렸습니다.\n\n이장 부부가 20년간 이장을 나눠 맡으면서 벌어진 일입니다. \n\n정자형 기자가 취재했습니다. \n\n◀ 리포트 ▶\n주민 백여 명이 사는 남원시 주생면의 한 마을. \n\n마을 한 쪽에 150평짜리 건물이 들어서 있습니다. \n\n남원시가 5년 전 마을에 지원한 2억 원으로 지어진 것으로, 주민들의 농기계를 공동으로 보관하도록 한 마을 소유입니다.\n\n그런데 웬일인지 건물은 원래 목적과 전혀 다르게 쓰이고 있습니다. \n\n이곳은 농기구를 보관하는 공용창고가 아닌 이장 부부의 사업장으로 쓰이고 있습니다. \n\n이 마을 이장 이 모 씨 부부는 지난해부터 창고를 각종 중고 물품 파는 판매장으로 바꿔 자신들의 소유 처럼 쓰고 있습니다. \n\n건물 등기부를 떼어보니, 토지와 건물은 한 영농조합법인 명의로 돼있습니다.\n\n그런데 이 영농조합법인의 대표는 이장의 남편, 그리고 이장 본인과 아들, 친척 등이 이사로 올라있어, 사실상 이장 가족이 건물을 소유한 형태로 돼있습니다. \n\n5년 전 시청이 공동창고를 짓는다해서 해당 부지를 마을에 판매한 주민마저 전혀 이 사실을 모르고 있었습니다. \n\n[박영남/마을 주민]\n\"마을에서 회관 등을 짓는다고 해서 팔았죠. 팔았어요, 마을에다가. 이장부부가 사유화한 줄은 몰랐습니다.\"\n\n이 곳 뿐만이 아닙니다.\n\n주민들의 농기계를 보관하는 또 다른 창고.\n\n이곳도 실은 마을의 공동 소유였는데 마을 이장은 지난 2013년 대지를 개인 명의로 바꿨습니다.\n\n이유를 묻자 이장은 창고를 짓기위해 행정 편의상 자신 명의로 바꿨다고 말합니다.\n\n[이장 남편]\n\"(땅은) 마을 것이예요. 마을 것. 답은 마을회로 (명의)이전이 안 돼요.\" \n\n심지어 마을 회관도 대지가 법인 명의인데, 2018년에 바꿔놨습니다.   \n\n이 마을에 있는 공용 공간 중 이장 개인이나 가족이 설립한 법인으로 명의가 바뀐 곳은 확인된 것만 3건.\n\n어떻게 이런 일이 가능했을까\n\n주민들은 이들 부부가 20년째 마을 이장을 바꿔가며 독식하면서 마을의 공용 시설을 본인들 명의로 바꾼 것으로 보고 있습니다.\n\n[박태수/마을 주민]\n\"농기구를 보관할 데가 없어서 비를 맞히고 있는데, (공용 공간이) 주민들 품으로 돌아오면 편리하게 사용할 수 있을 것입니다.\"\n\n이장 부부는 사업장으로 쓰고 있는 창고가 원래 공용 시설로 써야 하는 지 최근에 알았고, 영농조합법인에는 주민들도 소속돼 있다며 주장합니다.  \n\n[이장 남편]\n\"법인 설립할 때 이렇게 돼서 설립을 하니깐.\"\n(본인이 법인 소속인지 다들 모르시던데요?) \n\"모르는 사람들 대부분이죠. 동의 받았어도 할머니들이 당시에 이게 뭔 소리인지 압니까?\"\n\n하지만 취재진이 법인 등기부를 확인한 결과 마을주민들은 어느 누구도 법인에 소속돼 있지 않았습니다.\n\nMBC 뉴스 정자형입니다. \n\n영상취재: 진성민\n그래픽: 문현철 \n\n\n#마을이장 #마을창고 #법인",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zE8n0bC9JhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zE8n0bC9JhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zE8n0bC9JhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zE8n0bC9JhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zE8n0bC9JhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "전주MBC News",
+        "tags": [
+          "전주MBC",
+          "MBC",
+          "MBC뉴스",
+          "전라북도NEWS",
+          "전북NEWS",
+          "전북소식",
+          "뉴스룸",
+          "뉴스데스크",
+          "뉴스투데이",
+          "8시 뉴스",
+          "아침뉴스",
+          "저녁뉴스",
+          "네이버 뉴스",
+          "구글 뉴스",
+          "카카오 뉴스",
+          "카드뉴스",
+          "전라북도 뉴스",
+          "전북 소식",
+          "최신뉴스",
+          "속보",
+          "긴급속보",
+          "JTBC뉴스룸",
+          "MBC 뉴스데스크",
+          "NEWS",
+          "MBC NEWS DESK",
+          "전주 뉴스데스크",
+          "전주 뉴스",
+          "전북 뉴스",
+          "전북권 소식",
+          "뉴스",
+          "전북뉴스",
+          "전라북도",
+          "전북권뉴스",
+          "특보",
+          "시사",
+          "이슈",
+          "지역",
+          "정오뉴스",
+          "생방송",
+          "아나운서",
+          "https://www.youtube.com/watch?v=FJfwehhzIhw",
+          "https://www.youtube.com/watch?v=0GN8t2u3flc",
+          "https://www.youtube.com/watch?v=MfZSI1QqdUc",
+          "조수영",
+          "마을회관",
+          "이장",
+          "시골"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마을 이장 20년.. 마을 창고가 이장 소유로 | 전주MBC 221212 방송",
+          "description": "정자형기자의 더 많은 기사를 보고싶다면?\nhttps://media.naver.com/journalist/659/77515\n\n◀ 앵커 ▶\n한 시골마을의 공용 창고를 마을 이장이 개인 사업장으로 차지해 주민들이 반발하고 있습니다.\n\n마을 회관의 땅도 이장이 개인 명의로 바꿔버렸습니다.\n\n이장 부부가 20년간 이장을 나눠 맡으면서 벌어진 일입니다. \n\n정자형 기자가 취재했습니다. \n\n◀ 리포트 ▶\n주민 백여 명이 사는 남원시 주생면의 한 마을. \n\n마을 한 쪽에 150평짜리 건물이 들어서 있습니다. \n\n남원시가 5년 전 마을에 지원한 2억 원으로 지어진 것으로, 주민들의 농기계를 공동으로 보관하도록 한 마을 소유입니다.\n\n그런데 웬일인지 건물은 원래 목적과 전혀 다르게 쓰이고 있습니다. \n\n이곳은 농기구를 보관하는 공용창고가 아닌 이장 부부의 사업장으로 쓰이고 있습니다. \n\n이 마을 이장 이 모 씨 부부는 지난해부터 창고를 각종 중고 물품 파는 판매장으로 바꿔 자신들의 소유 처럼 쓰고 있습니다. \n\n건물 등기부를 떼어보니, 토지와 건물은 한 영농조합법인 명의로 돼있습니다.\n\n그런데 이 영농조합법인의 대표는 이장의 남편, 그리고 이장 본인과 아들, 친척 등이 이사로 올라있어, 사실상 이장 가족이 건물을 소유한 형태로 돼있습니다. \n\n5년 전 시청이 공동창고를 짓는다해서 해당 부지를 마을에 판매한 주민마저 전혀 이 사실을 모르고 있었습니다. \n\n[박영남/마을 주민]\n\"마을에서 회관 등을 짓는다고 해서 팔았죠. 팔았어요, 마을에다가. 이장부부가 사유화한 줄은 몰랐습니다.\"\n\n이 곳 뿐만이 아닙니다.\n\n주민들의 농기계를 보관하는 또 다른 창고.\n\n이곳도 실은 마을의 공동 소유였는데 마을 이장은 지난 2013년 대지를 개인 명의로 바꿨습니다.\n\n이유를 묻자 이장은 창고를 짓기위해 행정 편의상 자신 명의로 바꿨다고 말합니다.\n\n[이장 남편]\n\"(땅은) 마을 것이예요. 마을 것. 답은 마을회로 (명의)이전이 안 돼요.\" \n\n심지어 마을 회관도 대지가 법인 명의인데, 2018년에 바꿔놨습니다.   \n\n이 마을에 있는 공용 공간 중 이장 개인이나 가족이 설립한 법인으로 명의가 바뀐 곳은 확인된 것만 3건.\n\n어떻게 이런 일이 가능했을까\n\n주민들은 이들 부부가 20년째 마을 이장을 바꿔가며 독식하면서 마을의 공용 시설을 본인들 명의로 바꾼 것으로 보고 있습니다.\n\n[박태수/마을 주민]\n\"농기구를 보관할 데가 없어서 비를 맞히고 있는데, (공용 공간이) 주민들 품으로 돌아오면 편리하게 사용할 수 있을 것입니다.\"\n\n이장 부부는 사업장으로 쓰고 있는 창고가 원래 공용 시설로 써야 하는 지 최근에 알았고, 영농조합법인에는 주민들도 소속돼 있다며 주장합니다.  \n\n[이장 남편]\n\"법인 설립할 때 이렇게 돼서 설립을 하니깐.\"\n(본인이 법인 소속인지 다들 모르시던데요?) \n\"모르는 사람들 대부분이죠. 동의 받았어도 할머니들이 당시에 이게 뭔 소리인지 압니까?\"\n\n하지만 취재진이 법인 등기부를 확인한 결과 마을주민들은 어느 누구도 법인에 소속돼 있지 않았습니다.\n\nMBC 뉴스 정자형입니다. \n\n영상취재: 진성민\n그래픽: 문현철 \n\n\n#마을이장 #마을창고 #법인"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r1ARMRZbDE_yaKRBhojtkUWHjSA",
+      "id": "tm16SdtEbKI",
+      "snippet": {
+        "publishedAt": "2022-12-13T09:00:24Z",
+        "channelId": "UC_EngQdug6VcxZ3xcqgnWug",
+        "title": "트위치 파티에 잠입한 흑마술사",
+        "description": "위 이야기는 사실과 아주 다를 수 있습니다\n\n댓글과 트위치로 함께 소통합시다\n\n많이 사랑합니다.\n\n트위치 : 마술사김준표\n월수금토일 오후 7시 방송\n\n마술 강의\n\n렉쳐노트\nhttps://www.lnmagic.co.kr/goods/goods_search.php?keyword=%EA%B9%80%EC%A4%80%ED%91%9C&recentCount=10\n\n아르카나\nhttps://arcanamagic.com/?s=%EA%B9%80%EC%A4%80%ED%91%9C&post_type=course\n\n김준표 배우는 마술 클래스 101\nhttps://101.gg/junpyo-class\n\n비즈니스 & 합방 공연 & 강의 문의\nadm@treasurehunter.co.kr\n\n공연 및 강의 정보\nhttps://www.notion.so/kalidcerona/9f4490ab22414594874f7fbabe1bb59a\n\n영상을 퍼가실 경우 꼭 출처를 남겨주시길 바라며\n다른 영상과 합치지 마시길 바랍니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tm16SdtEbKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tm16SdtEbKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tm16SdtEbKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tm16SdtEbKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "김준표",
+        "tags": ["김준표", "흑마법사", "흑마술사", "이야기"],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "트위치 파티에 잠입한 흑마술사",
+          "description": "위 이야기는 사실과 아주 다를 수 있습니다\n\n댓글과 트위치로 함께 소통합시다\n\n많이 사랑합니다.\n\n트위치 : 마술사김준표\n월수금토일 오후 7시 방송\n\n마술 강의\n\n렉쳐노트\nhttps://www.lnmagic.co.kr/goods/goods_search.php?keyword=%EA%B9%80%EC%A4%80%ED%91%9C&recentCount=10\n\n아르카나\nhttps://arcanamagic.com/?s=%EA%B9%80%EC%A4%80%ED%91%9C&post_type=course\n\n김준표 배우는 마술 클래스 101\nhttps://101.gg/junpyo-class\n\n비즈니스 & 합방 공연 & 강의 문의\nadm@treasurehunter.co.kr\n\n공연 및 강의 정보\nhttps://www.notion.so/kalidcerona/9f4490ab22414594874f7fbabe1bb59a\n\n영상을 퍼가실 경우 꼭 출처를 남겨주시길 바라며\n다른 영상과 합치지 마시길 바랍니다"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0p9RCD-ifrts43uEuaZgKuM59SA",
+      "id": "bHekFBpgbd0",
+      "snippet": {
+        "publishedAt": "2022-12-12T15:00:18Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet X aespa 'Beautiful Christmas' MV Teaser",
+        "description": "Red Velvet X aespa's 'Beautiful Christmas' is out!\nListen and download on your favorite platform: https://SMTOWN.lnk.to/BeautifulChristmas\n\n🎄 'Beautiful Christmas' MV https://youtu.be/iTgcp1oDk2M\n\nSMTOWN's \"2022 Winter SMTOWN : SMCU PALACE\" will be released on December 26th, 6PM (KST).\n💿Pre-save & Pre-order\nhttp://SMTOWN.lnk.to/SMCU_PALACE\n\nRed Velvet Official\nhttps://www.youtube.com/redvelvet\nhttps://www.facebook.com/RedVelvet\nhttps://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet_smtown\nhttps://twitter.com/RVsmtown\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\nSMTOWN Official\nhttps://www.youtube.com/smtown\nhttps://www.facebook.com/smtown\nhttps://www.instagram.com/smtown\nhttps://twitter.com/SMTOWNGLOBAL\n\n#RedVelvet #aespa #BeautifulChristmas\n#2022_WINTER_SMTOWN #SMCU_PALACE\nRed Velvet X aespa 'Beautiful Christmas' MV Teaser ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bHekFBpgbd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bHekFBpgbd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHekFBpgbd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bHekFBpgbd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bHekFBpgbd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "tags": [
+          "레드벨벳",
+          "에스파",
+          "Red Velvet",
+          "aespa",
+          "아이린",
+          "웬디",
+          "슬기",
+          "조이",
+          "예리",
+          "irene",
+          "wendy",
+          "seulgi",
+          "joy",
+          "yeri",
+          "카리나",
+          "지젤",
+          "윈터",
+          "닝닝",
+          "karina",
+          "giselle",
+          "winter",
+          "ningning",
+          "smtown",
+          "smtown winter",
+          "winter smtown",
+          "smcu palace",
+          "smcu",
+          "에스엠타운",
+          "에스엠타운 윈터",
+          "에스엠 겨울앨범",
+          "에스엠씨유",
+          "Beautiful Christmas",
+          "뷰티풀 크리스마스",
+          "뮤직비디오",
+          "뮤비",
+          "티저",
+          "뮤비티저",
+          "music video",
+          "mv teaser",
+          "teaser"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Red Velvet X aespa 'Beautiful Christmas' MV Teaser",
+          "description": "Red Velvet X aespa's 'Beautiful Christmas' is out!\nListen and download on your favorite platform: https://SMTOWN.lnk.to/BeautifulChristmas\n\n🎄 'Beautiful Christmas' MV https://youtu.be/iTgcp1oDk2M\n\nSMTOWN's \"2022 Winter SMTOWN : SMCU PALACE\" will be released on December 26th, 6PM (KST).\n💿Pre-save & Pre-order\nhttp://SMTOWN.lnk.to/SMCU_PALACE\n\nRed Velvet Official\nhttps://www.youtube.com/redvelvet\nhttps://www.facebook.com/RedVelvet\nhttps://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet_smtown\nhttps://twitter.com/RVsmtown\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\nSMTOWN Official\nhttps://www.youtube.com/smtown\nhttps://www.facebook.com/smtown\nhttps://www.instagram.com/smtown\nhttps://twitter.com/SMTOWNGLOBAL\n\n#RedVelvet #aespa #BeautifulChristmas\n#2022_WINTER_SMTOWN #SMCU_PALACE\nRed Velvet X aespa 'Beautiful Christmas' MV Teaser ℗ SM Entertainment"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TQ6FGMpQleOhB6hikq9rCHu53mo",
+      "id": "MImNXg99-x4",
+      "snippet": {
+        "publishedAt": "2022-12-11T14:39:50Z",
+        "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
+        "title": "(SUB) [11회 하이라이트] 범인? ㅇㅇ잡아줄게, 독기 가득해진 송중기-이성민의 계획된 함정^_^ | 재벌집 막내아들 | JTBC 221211 방송",
+        "description": "[11회 하이라이트] 범인? ㅇㅇ잡아줄게, 독기 가득해진 송중기-이성민의 계획된 함정^_^\n#재벌집막내아들 #드라마하이라이트 #송중기\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/rebornrich\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MImNXg99-x4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MImNXg99-x4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MImNXg99-x4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MImNXg99-x4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MImNXg99-x4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Drama",
+        "tags": [
+          "재벌집막내아들",
+          "송중기",
+          "이성민",
+          "신현빈",
+          "재벌집막내아들드라마",
+          "JTBC드라마",
+          "JTBC금토일드라마",
+          "송중기드라마",
+          "이성민드라마",
+          "신현빈드라마",
+          "회귀물",
+          "송중기회귀",
+          "재벌집회귀",
+          "웹소설원작",
+          "재벌집막내아들첫방송",
+          "재벌집막내아들하이라이트",
+          "드라마하이라이트",
+          "송중기하이라이트",
+          "송중기재벌집막내아들",
+          "재벌집막내아들11회하이라이트",
+          "11회하이라이트",
+          "하이라이트",
+          "윤제문",
+          "김정난",
+          "박혁권"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "(SUB) [11회 하이라이트] 범인? ㅇㅇ잡아줄게, 독기 가득해진 송중기-이성민의 계획된 함정^_^ | 재벌집 막내아들 | JTBC 221211 방송",
+          "description": "[11회 하이라이트] 범인? ㅇㅇ잡아줄게, 독기 가득해진 송중기-이성민의 계획된 함정^_^\n#재벌집막내아들 #드라마하이라이트 #송중기\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/rebornrich\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QU7rUx6e3sIUQNmJmL87Vi76xlo",
+      "id": "lx8pay73Iys",
+      "snippet": {
+        "publishedAt": "2022-12-11T01:00:13Z",
+        "channelId": "UCn64fSqF2l4rkkjtQUpku2A",
+        "title": "화장실에 비누를 넣으면 몇 개월간 닦지 않아도 더러워지거나 냄새가 안 난다는 사실을 오늘에서야 알았네요! 집에서 시도해보세요",
+        "description": "#비누 #변기 \n비누를 활용한 유용한 꿀팁\n\n구독은 무료입니다.\n감사합니다.\n비지니스 문의 alstlr9202@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lx8pay73Iys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lx8pay73Iys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lx8pay73Iys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lx8pay73Iys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lx8pay73Iys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "집나간아들 Runaway Son",
+        "tags": [
+          "비누",
+          "비누활용법",
+          "비누꿀팁",
+          "팁",
+          "꿑립",
+          "생활굴팁",
+          "꿀팁",
+          "생활꿀팁",
+          "유용한팁",
+          "생활팁",
+          "변기",
+          "변기청소",
+          "욕실",
+          "욕실꿀팁"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "화장실에 비누를 넣으면 몇 개월간 닦지 않아도 더러워지거나 냄새가 안 난다는 사실을 오늘에서야 알았네요! 집에서 시도해보세요",
+          "description": "#비누 #변기 \n비누를 활용한 유용한 꿀팁\n\n구독은 무료입니다.\n감사합니다.\n비지니스 문의 alstlr9202@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MjNqScAEgiKkonAxOpEqhsdfZC8",
+      "id": "QlGKoD9HFfA",
+      "snippet": {
+        "publishedAt": "2022-12-12T11:00:13Z",
+        "channelId": "UChLGxPXbXU_xIxTfTTMGn5g",
+        "title": "느어 미읓긔야~~!!! 박경호가 알려주는 해병대 전투 축구ㅋㅋㅋㅋ +특급도장♥ 찍어주는 특전사 #코미디빅리그 EP.480 | tvN 221211 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#코미디빅리그 #코빅 #나의장사일지\n코미디빅리그 Comedy Big League EP.480\n\n대한민국 웃음의 대세＜코미디빅리그＞\n일요일 저녁 7시 45분 tvN\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QlGKoD9HFfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QlGKoD9HFfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QlGKoD9HFfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QlGKoD9HFfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QlGKoD9HFfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코미디빅리그",
+        "tags": [
+          "tvN",
+          "강재준",
+          "결혼해두목",
+          "김두영",
+          "김민기",
+          "김용명",
+          "김철민",
+          "김해준",
+          "나의장사일지",
+          "나이스샷",
+          "두분사망토론",
+          "문세윤",
+          "박나래",
+          "박상민",
+          "발명왕",
+          "발명황조수봉",
+          "상암동팡팡",
+          "수사황조수봉",
+          "승부조작",
+          "신규진",
+          "신영일",
+          "양배차",
+          "양세찬",
+          "용진호",
+          "원천징수",
+          "이용진",
+          "이은지",
+          "이은형",
+          "이진호",
+          "전지적조상시점",
+          "조수봉",
+          "주마등",
+          "최성민",
+          "최우선",
+          "취향저격수",
+          "코미디빅리그",
+          "코빅",
+          "티빙에서스트리밍",
+          "허영지",
+          "홍윤화",
+          "환승연애",
+          "황시봉",
+          "황제성"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "느어 미읓긔야~~!!! 박경호가 알려주는 해병대 전투 축구ㅋㅋㅋㅋ +특급도장♥ 찍어주는 특전사 #코미디빅리그 EP.480 | tvN 221211 방송",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#코미디빅리그 #코빅 #나의장사일지\n코미디빅리그 Comedy Big League EP.480\n\n대한민국 웃음의 대세＜코미디빅리그＞\n일요일 저녁 7시 45분 tvN\n\n#티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
