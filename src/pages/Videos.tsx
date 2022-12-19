@@ -1,5 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import axios from 'axios';
+import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
 
 export type VideoType = {
@@ -17,15 +18,19 @@ export type VideoType = {
 };
 
 export default function Videos() {
+  const { keyword } = useParams();
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery<VideoType[]>({
-    queryKey: ['videos'],
+    queryKey: ['videos', keyword],
     queryFn: async () =>
-      axios.get('/videos/mostPopular.json').then((res) => res.data.items),
+      axios
+        .get(`/videos/${keyword ? 'search' : 'mostPopular'}.json`)
+        .then((res) => res.data.items),
   });
+  console.log(videos);
 
   if (isLoading) return <p>Loading...</p>;
   if (error) return <p>Something is wrong...</p>;
