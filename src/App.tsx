@@ -5,7 +5,9 @@ function App() {
   const queryClient = new QueryClient();
   return (
     <QueryClientProvider client={queryClient}>
-      <Outlet />
+      <section className='max-w-screen-2xl m-auto px-3 py-6'>
+        <Outlet />
+      </section>
     </QueryClientProvider>
   );
 }
