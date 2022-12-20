@@ -61,6 +61,18 @@ export default class Youtube {
     return res.data.items[0].snippet.thumbnails.default.url;
   }
 
+  async getRelatedVideos(id: string) {
+    const res = await this.client.get<SearchResponse>('/search', {
+      params: {
+        part: 'snippet',
+        maxResults: 25,
+        type: 'video',
+        relatedToVideoId: id,
+      },
+    });
+    return res.data.items.map((item) => ({ ...item, id: item.id.videoId }));
+  }
+
   private async search(keyword: string): Promise<VideoType[]> {
     const res = await this.client.get<SearchResponse>('/search', {
       params: {
@@ -70,7 +82,7 @@ export default class Youtube {
         q: keyword,
       },
     });
-    return res.data.items.map((video) => ({ ...video, id: video.id.videoId }));
+    return res.data.items.map((item) => ({ ...item, id: item.id.videoId }));
   }
 
   private async mostPopular(): Promise<VideoType[]> {

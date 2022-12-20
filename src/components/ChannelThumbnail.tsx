@@ -11,9 +11,10 @@ export default function ChannelThumbnail({
   channelTitle,
 }: ChannelThumbnailProps) {
   const youtube = useYoutubeApi();
-  const { data } = useQuery(['channel', channelId], () =>
-    youtube.getChannelImage(channelId)
-  );
+  const { data } = useQuery({
+    queryKey: ['channel', channelId],
+    queryFn: () => youtube.getChannelImage(channelId),
+  });
   return (
     <>
       {data && (
