@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query';
-import axios from 'axios';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 type ChannelThumbnailProps = {
   channelId: string;
@@ -10,10 +10,9 @@ export default function ChannelThumbnail({
   channelId,
   channelTitle,
 }: ChannelThumbnailProps) {
-  const { data } = useQuery(['channel'], async () =>
-    axios
-      .get('/videos/channel.json')
-      .then((res) => res.data.items[0].snippet.thumbnails.default.url)
+  const youtube = useYoutubeApi();
+  const { data } = useQuery(['channel', channelId], () =>
+    youtube.getChannelImage(channelId)
   );
   return (
     <>

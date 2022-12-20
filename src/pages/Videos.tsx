@@ -1,8 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
-// import FakeYoutube from '../api/fakeYoutube';
-import Youtube from '../api/youtube';
 import VideoCard from '../components/VideoCard';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export type VideoType = {
   id: string;
@@ -18,11 +17,9 @@ export type VideoType = {
   };
 };
 
-const youtube = new Youtube();
-// const youtube = new FakeYoutube();
-
 export default function Videos() {
   const { keyword } = useParams();
+  const youtube = useYoutubeApi();
   const {
     isLoading,
     error,

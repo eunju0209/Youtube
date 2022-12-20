@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { VideoType } from '../pages/Videos';
 
-export type SearchAPI = {
+type SearchData = {
   id: {
     kind: string;
     videoId: string;
@@ -18,6 +18,26 @@ export type SearchAPI = {
   };
 };
 
+export type SearchResponse = {
+  items: SearchData[];
+};
+
+export type VideoResponse = {
+  items: VideoType[];
+};
+
+export type ChannelResponse = {
+  items: [
+    {
+      snippet: {
+        thumbnails: {
+          default: { url: string };
+        };
+      };
+    }
+  ];
+};
+
 export default class Youtube {
   private readonly client;
   constructor() {
@@ -31,8 +51,18 @@ export default class Youtube {
     return keyword ? this.search(keyword) : this.mostPopular();
   }
 
+  async getChannelImage(id: string) {
+    const res = await this.client.get<ChannelResponse>('/channels', {
+      params: {
+        part: 'snippet',
+        id,
+      },
+    });
+    return res.data.items[0].snippet.thumbnails.default.url;
+  }
+
   private async search(keyword: string): Promise<VideoType[]> {
-    const res = await this.client.get('/search', {
+    const res = await this.client.get<SearchResponse>('/search', {
       params: {
         part: 'snippet',
         maxResults: 25,
@@ -40,12 +70,11 @@ export default class Youtube {
         q: keyword,
       },
     });
-    const videos: SearchAPI[] = res.data.items;
-    return videos.map((video) => ({ ...video, id: video.id.videoId }));
+    return res.data.items.map((video) => ({ ...video, id: video.id.videoId }));
   }
 
   private async mostPopular(): Promise<VideoType[]> {
-    const res = await this.client.get('/videos', {
+    const res = await this.client.get<VideoResponse>('/videos', {
       params: {
         part: 'snippet',
         maxResults: 25,
