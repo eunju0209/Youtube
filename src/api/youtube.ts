@@ -1,44 +1,14 @@
+import { SearchResponse, ChannelResponse, VideoResponse } from './youtube.d';
 import axios from 'axios';
 import { VideoType } from '../pages/Videos';
 
-type SearchData = {
-  id: {
-    kind: string;
-    videoId: string;
-  };
-  snippet: {
-    publishedAt: string;
-    channelId: string;
-    title: string;
-    description: string;
-    thumbnails: {
-      medium: { url: string };
-    };
-    channelTitle: string;
-  };
-};
+export interface YoutubeApi {
+  getVideos(keyword?: string): Promise<VideoType[]>;
+  getChannelImage(id: string): Promise<string>;
+  getRelatedVideos(id: string): Promise<VideoType[]>;
+}
 
-export type SearchResponse = {
-  items: SearchData[];
-};
-
-export type VideoResponse = {
-  items: VideoType[];
-};
-
-export type ChannelResponse = {
-  items: [
-    {
-      snippet: {
-        thumbnails: {
-          default: { url: string };
-        };
-      };
-    }
-  ];
-};
-
-export default class Youtube {
+export default class Youtube implements YoutubeApi {
   private readonly client;
   constructor() {
     this.client = axios.create({
@@ -47,11 +17,11 @@ export default class Youtube {
     });
   }
 
-  getVideos(keyword?: string) {
+  getVideos(keyword?: string): Promise<VideoType[]> {
     return keyword ? this.search(keyword) : this.mostPopular();
   }
 
-  async getChannelImage(id: string) {
+  async getChannelImage(id: string): Promise<string> {
     const res = await this.client.get<ChannelResponse>('/channels', {
       params: {
         part: 'snippet',
@@ -61,7 +31,7 @@ export default class Youtube {
     return res.data.items[0].snippet.thumbnails.default.url;
   }
 
-  async getRelatedVideos(id: string) {
+  async getRelatedVideos(id: string): Promise<VideoType[]> {
     const res = await this.client.get<SearchResponse>('/search', {
       params: {
         part: 'snippet',

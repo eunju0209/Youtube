@@ -1,18 +1,19 @@
 import axios from 'axios';
 import { VideoType } from '../pages/Videos';
-import { ChannelResponse, SearchResponse, VideoResponse } from './youtube';
+import { YoutubeApi } from './youtube';
+import { ChannelResponse, SearchResponse, VideoResponse } from './youtube.d';
 
-export default class FakeYoutube {
-  getVideos(keyword?: string) {
+export default class FakeYoutube implements YoutubeApi {
+  getVideos(keyword?: string): Promise<VideoType[]> {
     return keyword ? this.search() : this.mostPopular();
   }
 
-  async getChannelImage() {
+  async getChannelImage(): Promise<string> {
     const res = await axios.get<ChannelResponse>('/videos/channel.json');
     return res.data.items[0].snippet.thumbnails.default.url;
   }
 
-  async getRelatedVideos() {
+  async getRelatedVideos(): Promise<VideoType[]> {
     const res = await axios.get<SearchResponse>('/videos/related.json');
     return res.data.items.map((item) => ({ ...item, id: item.id.videoId }));
   }

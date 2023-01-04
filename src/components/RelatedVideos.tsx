@@ -11,6 +11,7 @@ export default function RelatedVideos({ videoId }: RelatedVideosProps) {
   const { data: videos } = useQuery({
     queryKey: ['related', videoId],
     queryFn: () => youtube.getRelatedVideos(videoId),
+    staleTime: 1000 * 60 * 5,
   });
   return (
     <ul>

@@ -27,6 +27,7 @@ export default function Videos() {
   } = useQuery<VideoType[]>({
     queryKey: ['videos', keyword],
     queryFn: () => youtube.getVideos(keyword),
+    staleTime: 1000 * 60 * 1,
   });
 
   if (isLoading) return <p>Loading...</p>;

@@ -14,6 +14,7 @@ export default function ChannelThumbnail({
   const { data } = useQuery({
     queryKey: ['channel', channelId],
     queryFn: () => youtube.getChannelImage(channelId),
+    staleTime: 1000 * 60 * 5,
   });
   return (
     <>
