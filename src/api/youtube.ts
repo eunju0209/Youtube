@@ -61,6 +61,7 @@ export default class Youtube implements YoutubeApi {
         part: 'snippet',
         maxResults: 25,
         chart: 'mostPopular',
+        regionCode: 'KR',
       },
     });
     return res.data.items;
